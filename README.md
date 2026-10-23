@@ -1,4 +1,4 @@
-# Hi, I'm Uriel Tisera 👋
+# Hi, I'm Uriel Tisera 
 
 **AI Engineer | AI Automation & Agent Systems**
 
